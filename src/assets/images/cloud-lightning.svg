@@ -1,0 +1,14 @@
+<svg width="31.000000" height="31.000000" viewBox="0 0 31 31" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip452_2484">
+			<rect id="cloud-lightning" width="31.000000" height="31.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip452_2484)">
+		<path id="Vector" d="M24.5417 21.8301C26.1113 21.5107 27.5063 20.6201 28.4563 19.3311C29.4062 18.041 29.843 16.4453 29.6821 14.8516C29.5212 13.2578 28.7739 11.7812 27.5852 10.708C26.3967 9.63379 24.8516 9.04004 23.25 9.04199L21.6226 9.04199C21.1946 7.38574 20.3618 5.86035 19.1992 4.60547C18.0366 3.34961 16.5803 2.40234 14.9612 1.84863C13.342 1.29492 11.6108 1.15234 9.92285 1.43262C8.23486 1.71387 6.64282 2.40918 5.29004 3.45703C3.93726 4.50488 2.86572 5.87207 2.17188 7.43652C1.47803 9 1.18335 10.7119 1.3147 12.4189C1.4458 14.125 1.99854 15.7715 2.92334 17.2109C3.84839 18.6514 5.11621 19.8389 6.61328 20.667" stroke="#FF3C78" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="Vector" d="M16.7917 14.208L11.625 21.958L19.375 21.958L14.2083 29.708" stroke="#FF3C78" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+	</g>
+</svg>
